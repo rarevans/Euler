@@ -17,4 +17,5 @@ Richard Evans
 |------------|---------|---------|----------|
 | 1 | Count multiples of 3s and 5s below 1000 | Count3n5s | C# |
 | 2 | Sum of even Fibonacci numbers | FibonacciSum | C# |
+| 3 | Largest prime factors of a number | LargestPrimeFactor | C# |
 
