@@ -19,4 +19,5 @@ Richard Evans
 | 2 | Sum of even Fibonacci numbers | FibonacciSum | C# |
 | 3 | Largest prime factors of a number | LargestPrimeFactor | C# |
 | 4 | Largest palindromic number | PalindromeNumbers | C# |
+| 5 | Smallest number divisible by sequence 1..10 | SmallestMultipleDivision | C# |
 
