@@ -47,8 +47,8 @@ namespace SmallestMultipleDivision
             Assert.That(result, Is.EqualTo(6));
         }
 
-        [Test, Sequential]
-        public void Result_mAndn_Correct(
+        [Test, Sequential, Explicit]
+        public void Result_1ToN_Correct(
             [Values(2, 3, 4, 5, 7, 9, 10, 11, 20)] int high,
             [Values(2, 6, 12, 60, 420, 2520, 2520, 27720, 232792560)] int expectedResult
             )

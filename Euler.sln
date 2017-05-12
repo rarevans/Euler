@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeNumbers", "Palind
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallestMultipleDivision", "SmallestMultipleDivision\SmallestMultipleDivision.csproj", "{B95F4C98-60BA-475A-A106-C00D48D16CB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumSquareDiff", "SumSquareDiff\SumSquareDiff.csproj", "{71494F2D-6E80-41DA-B136-996DB526EA27}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{B95F4C98-60BA-475A-A106-C00D48D16CB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B95F4C98-60BA-475A-A106-C00D48D16CB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B95F4C98-60BA-475A-A106-C00D48D16CB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71494F2D-6E80-41DA-B136-996DB526EA27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71494F2D-6E80-41DA-B136-996DB526EA27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71494F2D-6E80-41DA-B136-996DB526EA27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71494F2D-6E80-41DA-B136-996DB526EA27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
