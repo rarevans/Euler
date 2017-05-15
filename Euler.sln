@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumSquareDiff", "SumSquareD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AggregateTest", "AggregateTest\AggregateTest.csproj", "{D738224D-80EE-4E63-BC9D-9D3B7B79FE51}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "the10001stPrime", "the10001stPrime\the10001stPrime.csproj", "{23C885CC-1479-4302-8058-609640C62558}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{D738224D-80EE-4E63-BC9D-9D3B7B79FE51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D738224D-80EE-4E63-BC9D-9D3B7B79FE51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D738224D-80EE-4E63-BC9D-9D3B7B79FE51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23C885CC-1479-4302-8058-609640C62558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23C885CC-1479-4302-8058-609640C62558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23C885CC-1479-4302-8058-609640C62558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23C885CC-1479-4302-8058-609640C62558}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
