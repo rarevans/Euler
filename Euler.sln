@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AggregateTest", "AggregateT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "the10001stPrime", "the10001stPrime\the10001stPrime.csproj", "{23C885CC-1479-4302-8058-609640C62558}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdjacentDigitProduct", "AdjacentDigitProduct\AdjacentDigitProduct.csproj", "{BF52B9EB-04E9-43E7-A8EB-FC4B9B418344}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{23C885CC-1479-4302-8058-609640C62558}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23C885CC-1479-4302-8058-609640C62558}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23C885CC-1479-4302-8058-609640C62558}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF52B9EB-04E9-43E7-A8EB-FC4B9B418344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF52B9EB-04E9-43E7-A8EB-FC4B9B418344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF52B9EB-04E9-43E7-A8EB-FC4B9B418344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF52B9EB-04E9-43E7-A8EB-FC4B9B418344}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

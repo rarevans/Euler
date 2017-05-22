@@ -22,4 +22,5 @@ Richard Evans
 | 5 | Smallest number divisible by sequence 1..10 | SmallestMultipleDivision | C# |
 | 6 | Difference of a sequence sum vs. square | SumSquareDiff | C# |
 | 7 | The 10001st prime | the 10001stPrime | C# |
+| 8 | Largest product of adjacent digits | AdjacentDigitProduct | C# |
 
