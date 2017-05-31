@@ -25,4 +25,5 @@ Richard Evans
 | 8 | Largest product of adjacent digits | AdjacentDigitProduct | C# |
 | 9 | Solution to Pythagorean triplets | PythagoreanTriplet | Java |
 | 10 | Sum of Primes below 2 million | SumOfPrimes | Java |
+| 11 | Largest product of 4 adjacent numbers in a grid | LargestGridProduct | Java |
 
