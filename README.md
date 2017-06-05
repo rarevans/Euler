@@ -26,4 +26,5 @@ Richard Evans
 | 9 | Solution to Pythagorean triplets | PythagoreanTriplet | Java |
 | 10 | Sum of Primes below 2 million | SumOfPrimes | Java |
 | 11 | Largest product of 4 adjacent numbers in a grid | LargestGridProduct | Java |
+| 12 | Find triangular number with 500 factors | TriangularNumberFactors | Java |
 
