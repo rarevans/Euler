@@ -29,4 +29,5 @@ Richard Evans
 | 12 | Find triangular number with 500 factors | TriangularNumberFactors | Java |
 | 13 | Prefix of Sum of 50 digit number | SumOfLargeNumbers | Java |
 | 14 | Longest Collatz Sequence below 1,000,000 | CollatzSequence | Java |
+| 15 | Lattice paths of right and down | LatticePaths | C++ |
 
